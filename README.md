@@ -8,16 +8,14 @@
 <div>
   
 ## 📝 About me
-
 - 👋 Hi, I’m Soojin
 </div>
 
 ## 💪 My Skills
-
 #### DevOps
-
 <div>
   <img src="https://img.shields.io/badge/Amazon Web Services-232F3E?style=flat-square&logo=AmazonWebServices&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Naver%20Cloud-03C75A?style=flat-square&logo=naver&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=Linux&logoColor=black"/></a>
   <img src="https://img.shields.io/badge/CentOS-262577?style=flat-square&logo=CentOS&logoColor=white"/></a> 
   <img src="https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=Ubuntu&logoColor=white"/></a>
@@ -40,9 +38,9 @@
   <img src="https://img.shields.io/badge/VMware-607078?style=flat-square&logo=VMware&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Virtualbox-2F61B4?style=flat-square&logo=virtualbox&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=Cisco&logoColor=white"/></a>
+</div>
 
 #### Collaboration
-
 <div>
   <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=Git&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Slack-4A154B?style=flat-square&logo=Slack&logoColor=white"/></a>
@@ -61,7 +59,7 @@
   <img src="https://img.shields.io/badge/Jupyter Notebook-F37626?style=flat-square&logo=Jupyter&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Anaconda-44A833?style=flat-square&logo=Anaconda&logoColor=white"/></a>  
   <img src="https://img.shields.io/badge/MariaDB-003545?style=flat-square&logo=MariaDB&logoColor=white"/></a>
-  <img src="https://img.shields.io/badge/burpsuite-FF6633?style=flat-square&logo=Burp Suite&logoColor=white"/></a>
+  <img src="https://img.shields.io/badge/Burp%20Suite-FF6633?style=flat-square&logo=burpsuite&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>
 </div>
 
