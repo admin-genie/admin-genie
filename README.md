@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=venom&color=gradient&height=250&section=header&text=SooJin%20Kim&fontSize=90&fontColor=black&theme=purple)
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fadmin-genie&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=GitHub&edge_flat=false)](https://hits.seeyoufarm.com)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=Gmail&logoColor=white)](mailto:genie9767@gmail.com)
 [![Naver Blog Badge](https://img.shields.io/badge/Naver%20Blog-03C75A?style=flat&logo=Naver&logoColor=white)](https://blog.naver.com/genie290)
 
@@ -11,25 +10,8 @@
 ## 📝 About me
 
 - 👋 Hi, I’m Soojin
-- 🎓 Department of Korean Language and Literature
-</div>
-<div>
-
-- 💻 2024.10 중부정보보호자원센터 "웹 취약점 점검 실습 교육" 수료
-- ☁️ 2024.05 한가람IT전문교육센터 "기업 맞춤형 클라우드 인프라 엔지니어 양성 과정" 수료
-- 🪪 2024.04 네트워크관리사 2급 취득
-- 🪪 2024.03 리눅스마스터 2급 취득
-- 💻 2021.08 홍익대학교 세종캠퍼스 "빅데이터 분석 기반 비즈니스 개발자 양성 과정" 수료
-- 🪪 2023.09 빅데이터분석 준전문가(ADsP) 취득
 </div>
 
-<div>
-
-## 💫 Awards
-- 🏆 2024.05 K-Digital Training 프로젝트 발표회 "우수상"
-- 🏆 2023.11 DMC 빅데이터 아이디어 오디션 AI 부문 "우수상"
-</div>
-  
 ## 💪 My Skills
 
 #### DevOps
